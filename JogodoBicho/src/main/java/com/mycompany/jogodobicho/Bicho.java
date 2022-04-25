@@ -12,7 +12,7 @@ import java.util.List;
 
 /**
  *
- * @author jackson.nascimento
+ * @author Jackson Nascimento
  */
 public class Bicho {
     private String nome;
